@@ -1,0 +1,10 @@
+E:\Code-C#\Djikstra\Djikstra\obj\Debug\Djikstra.csprojAssemblyReference.cache
+E:\Code-C#\Djikstra\Djikstra\obj\Debug\Djikstra.Form1.resources
+E:\Code-C#\Djikstra\Djikstra\obj\Debug\Djikstra.Properties.Resources.resources
+E:\Code-C#\Djikstra\Djikstra\obj\Debug\Djikstra.csproj.GenerateResource.cache
+E:\Code-C#\Djikstra\Djikstra\obj\Debug\Djikstra.csproj.CoreCompileInputs.cache
+E:\Code-C#\Djikstra\Djikstra\bin\Debug\Djikstra.exe.config
+E:\Code-C#\Djikstra\Djikstra\bin\Debug\Djikstra.exe
+E:\Code-C#\Djikstra\Djikstra\bin\Debug\Djikstra.pdb
+E:\Code-C#\Djikstra\Djikstra\obj\Debug\Djikstra.exe
+E:\Code-C#\Djikstra\Djikstra\obj\Debug\Djikstra.pdb
